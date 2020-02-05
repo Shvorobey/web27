@@ -252,7 +252,7 @@
       <workItem from="1580317376470" duration="2696000" />
       <workItem from="1580486690992" duration="225000" />
       <workItem from="1580492784563" duration="845000" />
-      <workItem from="1580919432530" duration="2837000" />
+      <workItem from="1580919432530" duration="3104000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1580921518467</created>
@@ -275,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580922095091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Push to github">
+      <created>1580922417866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580922417866</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="707" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.707@0.0.1366.707" timestamp="1579278367886" />
-    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1580922091177">
+    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1580922416876">
       <screen x="0" y="0" width="1366" height="707" />
     </state>
-    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.707@0.0.1366.707" timestamp="1580922091177" />
+    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.707@0.0.1366.707" timestamp="1580922416876" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1575327665517">
       <screen x="0" y="0" width="1366" height="707" />
     </state>
@@ -340,10 +347,10 @@
       <screen x="0" y="0" width="1366" height="707" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.707@0.0.1366.707" timestamp="1575994838861" />
-    <state x="272" y="38" key="Vcs.Push.Dialog.v2" timestamp="1580922183628">
+    <state x="272" y="38" key="Vcs.Push.Dialog.v2" timestamp="1580922432612">
       <screen x="0" y="0" width="1366" height="707" />
     </state>
-    <state x="272" y="38" key="Vcs.Push.Dialog.v2/0.0.1366.707@0.0.1366.707" timestamp="1580922183628" />
+    <state x="272" y="38" key="Vcs.Push.Dialog.v2/0.0.1366.707@0.0.1366.707" timestamp="1580922432612" />
     <state x="421" y="0" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1575656270659">
       <screen x="0" y="0" width="1366" height="707" />
     </state>
