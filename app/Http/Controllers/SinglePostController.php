@@ -6,6 +6,7 @@ use App\Post;
 use Illuminate\Http\Request;
 
 class SinglePostController extends Controller
+
 {
     public function __invoke($id)
     {
